@@ -1,0 +1,19 @@
+{
+  "name": "eleventy-custom-extensions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ELEVENTY_EXPERIMENTAL=true eleventy --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sass": "^1.36.0",
+    "snowpack": "^3.8.3"
+  }
+}
